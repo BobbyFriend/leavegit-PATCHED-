@@ -1,3 +1,3 @@
-This method has been patched but a work around will be released soon.
+fixed
 
-www,google.com
+www.google.com
